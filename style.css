@@ -1,0 +1,19 @@
+#album{
+    width:450px;
+    border-style:solid;
+    border-color: indigo;
+    padding:7px;
+  }
+  body{
+    text-align:center;
+
+  }
+  #heading1{
+    font-size:70px;
+    color: indigo;
+  }
+  #membertext{
+    font-size:30px;
+    color:indigo;
+  }
+  
